@@ -1,0 +1,4 @@
+space_user:
+    resource: "@SpaceUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
